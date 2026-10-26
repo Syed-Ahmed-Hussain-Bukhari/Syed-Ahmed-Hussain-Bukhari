@@ -49,7 +49,7 @@
 * 👯 **I’m looking to collaborate on:** Flutter, MERN Stack, AI-powered applications, REST APIs, and innovative software projects
 * 🤔 **I’m looking for help with:** Building scalable applications and exploring new technologies in AI, mobile, and full-stack development
 * 💬 **Ask me about:** Flutter, Dart, Firebase, Supabase, REST APIs, GetX, Provider, BLoC, Node.js, Express.js, MongoDB, React, and Next.js
-* 📫 **How to reach me:** **[hsyedahmed24@gmail.com](mailto:hsyedahmed24@gmail.com)**
+* 📫 **How to reach me:** **[hsyedahmed65@gmail.com](mailto:hsyedahmed24@gmail.com)**
 * 😄 **Pronouns:** Ahmed
 * ⚡ **Fun fact:** I love turning ideas into real-world applications and learning new technologies along the way! 🚀💻
 
